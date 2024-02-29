@@ -1,7 +1,7 @@
 {
   "app.pageTitle": "Nova Aba",
   "background": "Background",
-  "dashboard.errorHint": "Show errors",
+  "dashboard.errorHint": "Mostrar Erros",
   "dashboard.focusHint": "Mostrar/Esconder widgets",
   "dashboard.fullscreenHint": "Tela cheia",
   "dashboard.loadingHint": "Carregar conteúdo novo",
@@ -14,7 +14,7 @@
   "plugins.unsplash.photoLink": "Foto",
   "plugins.weather.apparent": "Feels like",
   "plugins.weather.high": "Alta",
-  "plugins.weather.humidity": "Humidity",
+  "plugins.weather.humidity": "Umidade",
   "plugins.weather.low": "Mínima",
   "settings": "Configurações",
   "settings.translationCredits": "Traduzido por Adilson Santos",
